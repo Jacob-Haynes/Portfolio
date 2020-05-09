@@ -1,0 +1,14 @@
+A list of products I have worked on from most recent backwards. More information available on request.
+
+1) CrewPlanner - an online and native mobile app planning tool for the flexible labour market. 
+Primarily in the hospitality and events industry.
+I acted as director of product leading the internal development team as well as the external mobile development team.
+
+2) Online music tool for interactive playlists - Contracted UI/UX development and feature exploration for a to-be-released product.
+
+3) 360 camera light probe technology - research, primarily prototype development of a light probe tool for using 360 cameras for HDR image based lighting.
+
+4) Critical national infrastructure gas balancing system - product position within a large agile development team for a CNI system.
+
+5) Commodity trading platform - product position analysing and testing function hypotheses for addition to a large multinational trading system.
+
