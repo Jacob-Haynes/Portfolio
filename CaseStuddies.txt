@@ -1,5 +1,7 @@
 A list of products I have worked on from most recent backwards. More information available on request.
 
+1) Dozens - @Project Imagine as a B2C mobile banking platform with investment products. Attached to Pi1 B2B "bank in a box".
+
 1) CrewPlanner - an online and native mobile app planning tool for the flexible labour market. 
 Primarily in the hospitality and events industry.
 I acted as director of product leading the internal development team as well as the external mobile development team.
